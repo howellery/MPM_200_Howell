@@ -2,7 +2,10 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+MPM Assignment 5: Will the Hummers Survive?
+- Code to read in a datafile of injured hummingbird rehabilitation outcomes and to analyze the data. The code contains file structure analysis and plots of covariates and outcomes created from a random subset of the data. The code also includes analysis of the hummingbird rehab admissions over time (see plot below). Main code outputs are the plots and a csv file of the data subset. 
+
+[admissions_ERINHOWELL.pdf](https://github.com/user-attachments/files/23638422/admissions_ERINHOWELL.pdf)
 
 ## Project Organization
 ------------
